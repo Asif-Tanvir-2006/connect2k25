@@ -8,7 +8,7 @@
 <body>
     <center>
     <div>will make home page later, for now click login to go to login page</div>
-    <button><a href="/loginto">Login</a></button>
+    <button><a href="/login">Login</a></button>
     </center>
 </body>
 </html>
